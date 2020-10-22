@@ -30,8 +30,6 @@ const palindromes = function(rawString) {
         return true
     }
     else {
-        console.log('this is compareA: ' + compareA);
-        console.log('this is a compareB: ' + compareB);
         return false
     }
 }
